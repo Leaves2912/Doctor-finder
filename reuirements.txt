@@ -1,0 +1,14 @@
+Here are the required libraries that needs to be installed before running the app -
+
+1. re
+2. time
+3. requests
+4. pandas
+5. streamlit
+6. BeautifulSoup library from Bs4 module
+7. quote module from urllib.parse library
+8. unquote module from urllib.parse library
+
+You can install the above packages using command prompt by using the following commands -
+
+pip install <library_name> (Make sure to use the correct library name.)
