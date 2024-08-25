@@ -18,8 +18,8 @@ Step - 2 : Create a virtual environment (optional but recommended):
            source env/bin/activate  
            (On Windows use `env\Scripts\activate`)
 
-Step - 3 : Install the required packages:
-          pip install -r requirements.txt
+Step - 3 : Install the required packages : 
+           Install all the libraries and modules listed in requirements.txt
 
 Step - 4 : Run the application:
            streamlit run Qualification_project.py
