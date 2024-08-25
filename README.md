@@ -15,7 +15,8 @@ Step - 1 : Clone the repository:
           
 Step - 2 : Create a virtual environment (optional but recommended):
            python -m venv env
-           source env/bin/activate  # On Windows use `env\Scripts\activate`
+           source env/bin/activate  
+           (On Windows use `env\Scripts\activate`)
 
 Step - 3 : Install the required packages:
           pip install -r requirements.txt
