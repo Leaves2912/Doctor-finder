@@ -1,6 +1,6 @@
-This file contains the required instructions for running the app successfully.
+# Web Scraping with Streamlit Application
 
-PROJECT TITLE - Web Scraping with Streamlit Application
+This file contains the required instructions for running the app successfully.
 
 PROJECT DESCRIPTION - 
 This project is a Streamlit-based web application designed to scrape and display information about doctors available in a user-specified city and specialization. 
