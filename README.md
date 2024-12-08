@@ -14,6 +14,7 @@ The app interface allows users to enter a city name and select a specialization 
            python -m venv env
            source env/bin/activate  
 (On Windows use `env\Scripts\activate`)
+(On macOS/Linux : `source env/bin/activate`)
 
 ### Step - 3 : Install the required packages : 
 Install all the libraries and modules listed in requirements.txt
