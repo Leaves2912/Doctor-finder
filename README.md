@@ -7,8 +7,8 @@ The app interface allows users to enter a city name and select a specialization 
 ## INSTALLATION INSTRUCTIONS -
 
 ### Step - 1 : Clone the repository:
-           git clone https://github.com/Leaves2912/PaidIntern-Data-Science-Project.git
-           cd PaidIntern-Data-Science-Project
+           git clone https://github.com/Leaves2912/Doctor-finder.git
+           cd Doctor-finder
           
 ### Step - 2 : Create a virtual environment (optional but recommended):
            python -m venv env
@@ -19,7 +19,7 @@ The app interface allows users to enter a city name and select a specialization 
            Install all the libraries and modules listed in requirements.txt
 
 ### Step - 4 : Run the application:
-           streamlit run Qualification_project.py
+           streamlit run app.py
 
 ## USAGE INSRUCTIONS -
 
