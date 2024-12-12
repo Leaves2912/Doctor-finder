@@ -1,4 +1,4 @@
-# Web Scraping with Streamlit Application
+# Practo Doctor Finder
 
 This project is a Streamlit-based web application designed to scrape and display information about doctors available in a user-specified city and specialization. 
 The application interacts with a medical website _*'Practo.com'*_, extracting data such as doctor names and profile links based on user inputs. 
