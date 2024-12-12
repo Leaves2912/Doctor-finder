@@ -20,6 +20,7 @@ The app interface allows users to enter a city name and select a specialization 
 ### Step - 3 : Install the required packages : 
 Install all the libraries and modules listed in requirements.txt
 
+
 ### Step - 4 : Run the application:
            streamlit run app.py
 
